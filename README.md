@@ -5,7 +5,7 @@
 
 E-commerce React App
 
-[Click here to visit the website](https://go-online-react-project.herokuapp.com/)
+[Click here to visit the website](https://go-online-store.herokuapp.com/)
 
 * Developed an E-commerce platform with features like Google Sign-In, shopping cart, checkout with payment <br>
 * Implemented React & Redux for front-end and Firebase & Node.js for back-end <br>
